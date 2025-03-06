@@ -28,3 +28,7 @@ go.work
 # OS specific files
 .DS_Store
 Thumbs.db 
+
+examples/data/
+examples/plugins/
+examples/nomad/
